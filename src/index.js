@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { nonsense } from 'react';
 import ReactDOM from 'react-dom';
+import { dontCreateStore } from 'redux'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
